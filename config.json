@@ -1,0 +1,9 @@
+{
+  "urls": [
+    "https://raw.githubusercontent.com/dwyl/english-words/master/words_alpha.txt",
+    "https://raw.githubusercontent.com/dwyl/english-words/master/words.txt",
+    "https://raw.githubusercontent.com/dolph/dictionary/master/enable1.txt"
+  ],
+  "names_url": "https://raw.githubusercontent.com/dominictarr/random-name/master/first-names.txt",
+  "default_frequency_threshold": 0.00000001
+}
